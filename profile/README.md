@@ -1,16 +1,3 @@
 # EzCE
 
-A calculator programming group
-
-## Focus
-
-We enjoy working on projects that focus on features and ease-of-use, and we 
-strive to create things that others will find useful as well.
-
-## Why a group?
-
-Since we work on a lot of projects together, it makes the most sense to
-host them all under a group. Some of our previous group projects, like [CEaShell](https://github.com/roccoloxprograms/shell),
-will remain under the previous owner so past links to the repository aren't
-confusing. There are also be other cool projects we work on
-independently, so be sure to check those out as well!
+We make stuff for calculators (usually the TI eZ80 models)! This group serves as a collection for projects that we ([RoccoLox Programs](https://github.com/roccoloxprograms/) and [TIny_Hacker](https://github.com/TIny-Hacker/)) work on together, to keep them all under the same name. A few of our previous group efforts (most notably [CEaShell](https://github.com/roccoloxprograms/shell)) can be found under our individual profiles, but everything new will be here.
